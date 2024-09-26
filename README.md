@@ -12,7 +12,7 @@
 <h1>Features</h1>
 <ul>
   <li><b>Basic Arithmetic Operations</b>: Supports addition, subtraction, multiplication, and division.</li>
-  <li><b>Clear and Delete<</b>: Buttons to clear the input (`AC`) and delete the last character (`C`).</li>
+  <li><b>Clear and Delete</b>: Buttons to clear the input (`AC`) and delete the last character (`C`).</li>
   <li><b>Evaluation</b>: Computes the result of the arithmetic expression entered by the user.</li>
 </ul>
 
